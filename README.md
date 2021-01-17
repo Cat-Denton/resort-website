@@ -24,11 +24,11 @@ _A website for Blue Wind Resort, with pages for accomodations, activities, trave
 
 ## Known Bugs
 
-* _None yet_
+* _GH Pages website showing 404 error_
 
 ## License
 
-_Copyright 2021 Marni Sucher and Cat Denton
+Copyright 2021 Marni Sucher and Cat Denton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
